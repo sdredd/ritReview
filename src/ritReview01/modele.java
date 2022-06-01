@@ -8,6 +8,7 @@ public class modele {
 		int index = 1; // variable index - indicates which index to take in the array "names"
 		int indDupl = 0; // duplicate name index variable - indicates which index to take in the array
 							// "duplName"
+		System.out.println("ghjhfhdh");
 
 
 	}
